@@ -1,0 +1,16 @@
+{
+  "emailCredentials": {
+    "imap": {
+      "host": "imap.testmail.com",
+      "port": 993,
+      "user": "test_bot_reader@testmail.com",
+      "password": "test_imap_placeholder"
+    },
+    "smtp": {
+      "host": "smtp.testmail.com",
+      "port": 465,
+      "user": "test_bot_sender@testmail.com",
+      "password": "test_smtp_placeholder"
+    }
+  }
+}
